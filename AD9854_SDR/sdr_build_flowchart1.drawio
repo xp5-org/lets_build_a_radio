@@ -1,0 +1,144 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="YRA1PHGSiZ-1OIfd9Ihc">
+    <mxGraphModel dx="1309" dy="1714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="a8qmcg0B-BPcV0krkKnK-26" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="200" width="360" x="480" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="a8qmcg0B-BPcV0krkKnK-25" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="200" width="360" x="470" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="a8qmcg0B-BPcV0krkKnK-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;want a transciever&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a8qmcg0B-BPcV0krkKnK-38" edge="1" parent="1" source="a8qmcg0B-BPcV0krkKnK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="a8qmcg0B-BPcV0krkKnK-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a8qmcg0B-BPcV0krkKnK-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="purchase one" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="a8qmcg0B-BPcV0krkKnK-3" edge="1" parent="1" source="a8qmcg0B-BPcV0krkKnK-1" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0.017;exitY=0.883;exitDx=0;exitDy=0;exitPerimeter=0;" target="a8qmcg0B-BPcV0krkKnK-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="380" as="sourcePoint" />
+            <mxPoint x="450" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a8qmcg0B-BPcV0krkKnK-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;transceiver obtained&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="a8qmcg0B-BPcV0krkKnK-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;DIY solder project&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="530" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="a8qmcg0B-BPcV0krkKnK-7" edge="1" parent="1" source="a8qmcg0B-BPcV0krkKnK-1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="a8qmcg0B-BPcV0krkKnK-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="750" as="sourcePoint" />
+            <mxPoint x="450" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a8qmcg0B-BPcV0krkKnK-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="determine project requirements &amp;amp; goals" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="a8qmcg0B-BPcV0krkKnK-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="identify design criteria" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="a8qmcg0B-BPcV0krkKnK-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="select foundational components" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="a8qmcg0B-BPcV0krkKnK-11" edge="1" parent="1" source="a8qmcg0B-BPcV0krkKnK-5" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="a8qmcg0B-BPcV0krkKnK-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="750" as="sourcePoint" />
+            <mxPoint x="450" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a8qmcg0B-BPcV0krkKnK-12" edge="1" parent="1" source="a8qmcg0B-BPcV0krkKnK-8" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="a8qmcg0B-BPcV0krkKnK-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="340" y="380" as="sourcePoint" />
+            <mxPoint x="270" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a8qmcg0B-BPcV0krkKnK-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="simulate circuits in ltspice, validate design" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="a8qmcg0B-BPcV0krkKnK-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;layout kicad,&amp;nbsp;&lt;/div&gt;&lt;div&gt;simulate in openEMS&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="a8qmcg0B-BPcV0krkKnK-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="fabricate PCBs, assemble" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="a8qmcg0B-BPcV0krkKnK-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="user interface" vertex="1">
+          <mxGeometry height="40" width="120" x="530" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="a8qmcg0B-BPcV0krkKnK-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="operating band coverage" vertex="1">
+          <mxGeometry height="40" width="120" x="650" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="a8qmcg0B-BPcV0krkKnK-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Tx watts, Rx S/N considerations" vertex="1">
+          <mxGeometry height="40" width="120" x="580" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="a8qmcg0B-BPcV0krkKnK-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="FPGA?" vertex="1">
+          <mxGeometry height="40" width="120" x="560" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="a8qmcg0B-BPcV0krkKnK-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&amp;nbsp;mixer chip?" vertex="1">
+          <mxGeometry height="40" width="120" x="680" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="a8qmcg0B-BPcV0krkKnK-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&amp;nbsp;dds module?" vertex="1">
+          <mxGeometry height="40" width="120" x="560" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="a8qmcg0B-BPcV0krkKnK-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="vfo source?" vertex="1">
+          <mxGeometry height="40" width="120" x="680" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="a8qmcg0B-BPcV0krkKnK-27" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="200" width="360" x="480" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="a8qmcg0B-BPcV0krkKnK-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="split PCB up to assignable tasks" vertex="1">
+          <mxGeometry height="40" width="120" x="560" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="a8qmcg0B-BPcV0krkKnK-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="openEMS docker container" vertex="1">
+          <mxGeometry height="40" width="120" x="680" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="a8qmcg0B-BPcV0krkKnK-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="hand solder or factory?" vertex="1">
+          <mxGeometry height="40" width="120" x="630" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="a8qmcg0B-BPcV0krkKnK-32" edge="1" parent="1" source="a8qmcg0B-BPcV0krkKnK-9" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.508;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;" target="a8qmcg0B-BPcV0krkKnK-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="440" y="410" as="sourcePoint" />
+            <mxPoint x="440" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a8qmcg0B-BPcV0krkKnK-33" edge="1" parent="1" source="a8qmcg0B-BPcV0krkKnK-10" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="a8qmcg0B-BPcV0krkKnK-13" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="480" y="510" as="sourcePoint" />
+            <mxPoint x="481" y="564" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a8qmcg0B-BPcV0krkKnK-34" edge="1" parent="1" source="a8qmcg0B-BPcV0krkKnK-13" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="a8qmcg0B-BPcV0krkKnK-14" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="510" y="660" as="sourcePoint" />
+            <mxPoint x="511" y="714" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a8qmcg0B-BPcV0krkKnK-35" edge="1" parent="1" source="a8qmcg0B-BPcV0krkKnK-14" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="a8qmcg0B-BPcV0krkKnK-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="510" y="780" as="sourcePoint" />
+            <mxPoint x="511" y="834" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a8qmcg0B-BPcV0krkKnK-36" edge="1" parent="1" source="a8qmcg0B-BPcV0krkKnK-15" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="a8qmcg0B-BPcV0krkKnK-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="580" y="550" as="sourcePoint" />
+            <mxPoint x="581" y="604" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a8qmcg0B-BPcV0krkKnK-39" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="610" width="50" x="310" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="a8qmcg0B-BPcV0krkKnK-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Discord voice chat &amp;amp; desktop share group project steps&lt;/font&gt;" vertex="1">
+          <mxGeometry height="140" width="120" x="190" y="510" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
