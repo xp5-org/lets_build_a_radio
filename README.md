@@ -3,7 +3,7 @@ describe a goal centered on a task or a component, organize people interested in
 
 <br>
 
-[<br>](https://discord.gg/Xgx8TTps)
+[discord link](https://discord.gg/Xgx8TTps)
 
 <br>
 
