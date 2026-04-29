@@ -2,7 +2,9 @@
 describe a goal centered on a task or a component, organize people interested in the design and or build process
 
 <br>
-<br>
+
+[<br>](https://discord.gg/Xgx8TTps)
+
 <br>
 
 ## 1) AD9854 TX ONLY SDR
