@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TMP1075DGKR")(type "KiCad")(uri "${KIPRJMOD}/new_library/TMP1075DGKR.kicad_sym")(options "")(descr ""))
+)
